@@ -1,0 +1,13 @@
+﻿  Date.cpp
+  Employee.cpp
+C:\Users\shore\source\repos\My_quickbook\Employee.cpp(123,6): warning C4101:  'year': unreferenced local variable
+C:\Users\shore\source\repos\My_quickbook\Employee.cpp(122,6): warning C4101:  'day': unreferenced local variable
+  Payroll.cpp
+  Generating Code...
+C:\Users\shore\source\repos\My_quickbook\Employee.cpp(121,6): warning C4101:  'month': unreferenced local variable
+C:\Users\shore\source\repos\My_quickbook\Employee.cpp(93): error C4716:  'Employee::lastcode': must return a value
+C:\Users\shore\source\repos\My_quickbook\Employee.cpp(99): error C4716:  'Employee::codefound': must return a value
+C:\Users\shore\source\repos\My_quickbook\Employee.cpp(105): error C4716:  'Employee::recordnum': must return a value
+C:\Users\shore\source\repos\My_quickbook\Employee.cpp(111): error C4716:  'Employee::foundcode': must return a value
+C:\Users\shore\source\repos\My_quickbook\Employee.cpp(125): error C4716:  'Employee::validdate': must return a value
+C:\Users\shore\source\repos\My_quickbook\Date.cpp(87): error C4716:  'Date::toString': must return a value
